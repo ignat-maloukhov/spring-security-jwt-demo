@@ -1,4 +1,4 @@
-package demo.malouhov.springsecurityjwtdemo;
+package demo.malouhov.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
